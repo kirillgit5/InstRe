@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "environment",
+      "type": "java.lang.String",
+      "description": "Description for environment."
+  }
+] }
